@@ -82,3 +82,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://magical-triceratops-daec2.netlify.app'
